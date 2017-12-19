@@ -1,6 +1,11 @@
 # Ir3mind-Modular-based-device-to-curb-Myopia-habits
 Modular Device that consist of a smell diffuser, smart lamp, speaker, LCD, that uses bluetoooth to connect to nano. A non intrusive, multi functional 'smart alarm' that engages one's senses. As compared to traditional alarm, our project aims to provide a subtle but escalating reminder system. By not having a buzzer straight-up alarm, proper reading habits no longer becomes a chore, but something we can look forward to.
 
+
+# Link to video <h1> tag
+https://www.youtube.com/watch?v=oA50D8kOCBk
+
+## The Hardware <h2> tag
 Nano parts-
 2 servo motors
 1 ultrasensor hc sr-04
@@ -17,4 +22,12 @@ Rpi 3 parts-
 1 LCD display
 
 
-# Link to video <h1> tag
+### Libraries/Software dependencies <h3> tag
+**Rpi3**
+Pi-Blaster
+Pygame
+PyBluez
+Adafruit_CharLCD
+
+**Arduino**
+Varspeedservo.h
