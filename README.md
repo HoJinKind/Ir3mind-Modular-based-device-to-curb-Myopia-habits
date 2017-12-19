@@ -1,7 +1,7 @@
 # Ir3mind-Modular based device to curb Myopia habits
 Modular Device that consist of a smell diffuser, smart lamp, speaker, LCD, that uses bluetoooth to connect to nano. A non intrusive, multi functional 'smart alarm' that engages one's senses. As compared to traditional alarm, our project aims to provide a subtle but escalating reminder system. By not having a buzzer straight-up alarm, proper reading habits no longer becomes a chore, but something we can look forward to.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/HoJinKind/Ir3mind-Modular-based-device-to-curb-Myopia-habits/blob/master/complete.jpg)
 # Link to video 
 https://www.youtube.com/watch?v=oA50D8kOCBk< /br>
 [![video](https://img.youtube.com/vi/oA50D8kOCBk/0.jpg)](https://www.youtube.com/watch?v=oA50D8kOCBk)
