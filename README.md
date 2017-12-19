@@ -5,7 +5,7 @@ Modular Device that consist of a smell diffuser, smart lamp, speaker, LCD, that 
 # Link to video <h1> 
 https://www.youtube.com/watch?v=oA50D8kOCBk
 
-## The Hardware <h2> 
+# The Hardware
 Nano parts-
 2 servo motors <br />
 1 ultrasensor hc sr-04<br />
@@ -22,7 +22,7 @@ Rpi 3 parts-
 1 LCD display<br />
 
 
-### Libraries/Software dependencies <h3> 
+# Libraries/Software dependencies
 **Rpi3**
 Pi-Blaster<br />
 Pygame<br />
