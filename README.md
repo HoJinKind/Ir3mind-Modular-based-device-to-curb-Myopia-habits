@@ -15,3 +15,6 @@ Rpi 3 parts-
 2  1W LED (1 for LDR dependent lamp, 1 for pulsing light during 20 min mark)
 2 Momentary Buttons
 1 LCD display
+
+
+(#Link to Video)
