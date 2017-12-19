@@ -4,7 +4,7 @@ Modular Device that consist of a smell diffuser, smart lamp, speaker, LCD, that 
 ![alt text](http://url/to/img.png)
 # Link to video <h1> 
 https://www.youtube.com/watch?v=oA50D8kOCBk
-
+[![video](https://img.youtube.com/vi/oA50D8kOCBk/0.jpg)](https://www.youtube.com/watch?v=oA50D8kOCBk)
 # The Hardware
 Nano parts-
 2 servo motors <br />
