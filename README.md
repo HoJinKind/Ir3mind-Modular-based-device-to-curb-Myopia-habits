@@ -8,27 +8,27 @@ https://www.youtube.com/watch?v=oA50D8kOCBk< /br>
 [![video](https://img.youtube.com/vi/oA50D8kOCBk/0.jpg)](https://www.youtube.com/watch?v=oA50D8kOCBk)
 # The Hardware
 Nano parts-
-2 servo motors <br />
-1 ultrasensor hc sr-04<br />
-1 bluetooth mod hc 05<br />
-9 v Battery<br />
+* 2 servo motors 
+* 1 ultrasensor hc sr-04
+* 1 bluetooth mod hc 05
+* 9 v Battery
 
 Rpi 3 parts-
-1 servo motor-(control smell diffuser) <br />
-1 1uf capacitor(for LDR)<br />
-1 LDR<br />
-1 Sound Blaster Play! 2 USB Sound Card (change USB PCM output)<br />
-2  1W LED (1 for LDR dependent lamp, 1 for pulsing light during 20 min mark)<br />
-2 Momentary Buttons<br />
-1 LCD display<br />
+* 1 servo motor-(control smell diffuser) 
+* 1 1uf capacitor(for LDR)
+* 1 LDR
+* 1 Sound Blaster Play! 2 USB Sound Card (change USB PCM output)
+* 2  1W LED (1 for LDR dependent lamp, 1 for pulsing light during 20 min mark)
+* 2 Momentary Buttons
+* 1 LCD display
 
 
 # Libraries/Software dependencies
 **Rpi3**
-Pi-Blaster<br />
-Pygame<br />
-PyBluez<br />
-Adafruit_CharLCD<br />
+* Pi-Blaster
+* Pygame
+* PyBluez
+* Adafruit_CharLCD
 
 **Arduino**
-Varspeedservo.h
+* Varspeedservo.h
